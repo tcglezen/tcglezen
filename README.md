@@ -1,9 +1,8 @@
 ### Hey there! 
 
-I am a fourth year computer science and statistics major studying at UC Berkeley! 
+I am a software engineer at Performance Star working on AI systems. 
 
-I'm interested in topics such as mAcHiNe LeArNiNg and DiStRiBuTeD sYsTeMs because I think that they (can be) are interesting subjects. 
-Outside of academia, I also enjoy playing chess and tennis
+Cools beans 
 
 <!--
 **tcglezen/tcglezen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
